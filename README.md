@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Stats](https://leetcode-status.vercel.app/api/card/iyehah?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7&logo=true&custom_title=krishnasakethai%20Hacen)
+![Stats](https://leetcode-status.vercel.app/api/card/iyehah?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7&logo=true&custom_title=krishnasakethai)
 -->
