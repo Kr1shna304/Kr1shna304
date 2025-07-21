@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## 🏅 LeetCode Achievements
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=krishnasakethai)
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=krishnasakethai&theme=dark)](https://leetcode.com/krishnasakethai)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/krishnasakethai/)
 
 -->
