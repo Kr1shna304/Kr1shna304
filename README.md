@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/krishnasakethai?ext=heatmap)
+
 -->
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/krishnasakethai?ext=heatmap)
 
